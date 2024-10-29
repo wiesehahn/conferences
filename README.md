@@ -23,6 +23,10 @@ Gainesville, USA, 04.-08.05.2026
   Vienna, Austria, 23.06.-27.06.2025  
   *These symposia unite scientists and researchers from around the world to share and discuss the latest in Earth science and observation technologies.*
 
+- **[AGILE 2025](https://agile-gi.eu/conference-2025)**  
+  Dresden, Germany, 10.-13.06.2025  
+  *Annual Conference by the Association of Geographic Information Laboratories in Europe (AGILE), on the theme: Geographic Information Science responding to Global Challenges*
+
 - **[EGU25](https://www.egu25.eu/)**  
   Vienna, Austria, 27.04.-02.05.2025  
   *a forum where scientists, especially early career researchers, can present their work and discuss their ideas with experts in all fields of geoscience.*
