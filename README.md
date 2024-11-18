@@ -27,6 +27,10 @@ Gainesville, USA, 04.-08.05.2026
   Dresden, Germany, 10.-13.06.2025  
   *Annual Conference by the Association of Geographic Information Laboratories in Europe (AGILE), on the theme: Geographic Information Science responding to Global Challenges*
 
+- **[44th EARSeL Symposium](https://symposium.earsel.org/44th-symposium-Prague/)**  
+Prague, Czech Republic, 26.–29.05.2025  
+  *Annual Symposium by the European Association of Remote Sensing Laboratories, which aims to showcase the current trends in remote sensing.*
+
 - **[EGU25](https://www.egu25.eu/)**  
   Vienna, Austria, 27.04.-02.05.2025  
   *a forum where scientists, especially early career researchers, can present their work and discuss their ideas with experts in all fields of geoscience.*
