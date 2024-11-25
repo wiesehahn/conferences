@@ -19,6 +19,10 @@ Gainesville, USA, 04.-08.05.2026
   Freiburg, Germany, 30.09.-02.10.2025  
   *Stellt die Forstwissenschaften in ihrer gesamten disziplinären Breite zusammen und bietet einen Überblick über die Forschung im deutschsprachigen Raum.*
 
+- **[FOSS4G Europe 2025](https://2025.europe.foss4g.org/)**  
+  Mostar, Bosnia-Herzegovina, 14.-20.07.2025  
+  *Connects professionals in the geoinformation software realm. Emphasizes geoinformatics, cartography, and open standards, fostering data sharing, collaboration, and innovative problem-solving across various domains*
+
 - **[ESA Living Planet Symposium 2025](https://www.esa.int/Applications/Observing_the_Earth/Save_the_date_ESA_s_Living_Planet_Symposium_2025)**  
   Vienna, Austria, 23.06.-27.06.2025  
   *These symposia unite scientists and researchers from around the world to share and discuss the latest in Earth science and observation technologies.*
