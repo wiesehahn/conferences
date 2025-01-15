@@ -19,6 +19,10 @@ Gainesville, USA, 04.-08.05.2026
   Freiburg, Germany, 30.09.-02.10.2025  
   *Stellt die Forstwissenschaften in ihrer gesamten disziplinären Breite zusammen und bietet einen Überblick über die Forschung im deutschsprachigen Raum.*
 
+- **[GfÖ annual meeting](https://www.gfoe-conference.de/)**  
+  Würzburg, Germany, 01.-05.09.2025  
+  *Annual Conference of the Ecological Society of Germany, Austria, and Switzerland*
+
 - **[FOSS4G Europe 2025](https://2025.europe.foss4g.org/)**  
   Mostar, Bosnia-Herzegovina, 14.-20.07.2025  
   *Connects professionals in the geoinformation software realm. Emphasizes geoinformatics, cartography, and open standards, fostering data sharing, collaboration, and innovative problem-solving across various domains*
