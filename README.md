@@ -59,6 +59,10 @@ Prague, Czech Republic, 26.–29.05.2025
   Freising, Germany, 13.-14.03.2025  
   *SmartForest 2025 schafft den Raum, in dem Wissenschaft und Praxis gemeinsam Lösungen für eine digitalisierte, innovative, nachhaltige und klimaangepasste Waldbewirtschaftung entwickeln.*
 
+- **[BIOSPACE25](https://biospace25.esa.int/)**  
+  Frascati, Italy, 10.-14.02.2025  
+  *The first international conference exclusively dedicated to the application of Satellite Remote Sensing (SRS) across the various dimensions of biodiversity.*
+
 - **[PCP 2025](https://pcp2025.ifp.uni-stuttgart.de/?t=CMgLI_C-rPJHqIpMCdaZJg&s=03)**  
   Stuttgart, Germany, 06.-07.02.2025  
   *The 4th International Workshop on Point Cloud Processing is a 1.5 day seminar co-organized by the Institute for Photogrammetry, University of Stuttgart and EuroSDR.*
