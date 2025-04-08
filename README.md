@@ -4,7 +4,7 @@ List of selected events (conferences, workshops, etc.) related to forest science
 
 ### 2026
 
-- **[ForestSAT](https://conference.ifas.ufl.edu/forestsat/index.php)**
+- **[ForestSAT](https://conference.ifas.ufl.edu/forestsat/index.php)**  
 Gainesville, USA, 04.-08.05.2026
 *bring together leading experts in forestry, remote sensing, and artificial intelligence for an engaging week of presentations, workshops, and networking opportunities*
 
