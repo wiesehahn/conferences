@@ -8,6 +8,10 @@ List of selected events (conferences, workshops, etc.) related to forest science
 Gainesville, USA, 04.-08.05.2026
 *bring together leading experts in forestry, remote sensing, and artificial intelligence for an engaging week of presentations, workshops, and networking opportunities*
 
+- **[FOSSGIS 2025](https://fossgis-konferenz.de/2025/)**  
+  Göttingen, Germany, 25.-28.03.2026  
+  *Konferenz für Freie und Open Source Software für Geoinformationssysteme sowie für die Themen Open Data und OpenStreetMap.*
+
 
 ### 2025
 
