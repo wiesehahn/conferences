@@ -15,6 +15,10 @@ Gainesville, USA, 04.-08.05.2026
 
 ### 2025
 
+- **[GFOI Plenary 2025](https://www.fao.org/gfoi/home)**  
+  Bali, Indonesia, 21.-23.10.2025  
+  *The major global gathering for countries, donors, development partners and practitioners working in the forest monitoring sector*
+
 - **[Silvilaser](https://www.silvilaser2025.com/)**  
   Quebec, Canada, 28.09.-02.10.2025  
   *Conference on the applications of lidar and related technologies for assessing and managing forest ecosystems*
