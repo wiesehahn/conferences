@@ -5,7 +5,7 @@ List of selected events (conferences, workshops, etc.) related to forest science
 ### 2026
 
 - **[ForestSAT](https://conference.ifas.ufl.edu/forestsat/index.php)**  
-Gainesville, USA, 04.-08.05.2026  
+Gainesville (hybrid), USA, 04.-08.05.2026  
 *bring together leading experts in forestry, remote sensing, and artificial intelligence for an engaging week of presentations, workshops, and networking opportunities*
 
 - **[FOSSGIS 2026](https://fossgis-konferenz.de/2026/)**  
@@ -26,6 +26,14 @@ Gainesville, USA, 04.-08.05.2026
 - **[FowiTa](https://www.forstverein.de/fileadmin/user_upload/Forstverein/Artikel_Material/2024/FoWiTa2025_Save_the_date.pdf)**  
   Freiburg, Germany, 30.09.-02.10.2025  
   *Stellt die Forstwissenschaften in ihrer gesamten disziplinären Breite zusammen und bietet einen Überblick über die Forschung im deutschsprachigen Raum.*
+
+- **[AI4EO workshop](https://ml4earth.de/workshop_2025/)**  
+  Bonn, Germany, 24.-25.09.2025  
+  *discuss recent breakthroughs, network across disciplines, and define future needs for AI in Earth Observation*
+
+- **[AI4EO Symposium 2025](https://ai4eo2025.irisa.fr/)**  
+  Rennes, France, 11.-12.09.2025  
+  *gather the scientific community and the industry in the field of artificial intelligence for earth observation*
 
 - **[GfÖ annual meeting](https://www.gfoe-conference.de/)**  
   Würzburg, Germany, 01.-05.09.2025  
