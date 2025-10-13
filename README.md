@@ -12,9 +12,17 @@ Gainesville (hybrid), USA, 04.-08.05.2026
   Göttingen, Germany, 25.-28.03.2026  
   *Konferenz für Freie und Open Source Software für Geoinformationssysteme sowie für die Themen Open Data und OpenStreetMap.*
 
+- **[SmartForest 2026](https://smartforest.ai/)**  
+  Freising, Germany, 12.-13.03.2026  
+  *SmartForest 2025 schafft den Raum, in dem Wissenschaft und Praxis gemeinsam Lösungen für eine digitalisierte, innovative, nachhaltige und klimaangepasste Waldbewirtschaftung entwickeln.*
+
 
 ### 2025
 
+- **[Living Data 2025](https://www.livingdata2025.com)**  
+  Bogotá, Colombia, 21.-24.10.2025  
+  *joint conference that focuses on integrating, standardizing, and sharing biodiversity data to support global conservation efforts*
+  
 - **[GFOI Plenary 2025](https://www.fao.org/gfoi/home)**  
   Bali, Indonesia, 21.-23.10.2025  
   *The major global gathering for countries, donors, development partners and practitioners working in the forest monitoring sector*
