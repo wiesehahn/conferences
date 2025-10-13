@@ -2,6 +2,14 @@
 List of selected events (conferences, workshops, etc.) related to forest sciences, geospatial analysis, cartography, remote sensing.
 
 
+
+### 2027
+
+- **[SilviLaser](https://www.ibles.pl/aktualnosci/silvilaser-2027-w-polsce/)**
+Warsaw, Poland, 11.-19.09.2027
+*Conference on the applications of lidar and related technologies for assessing and managing forest ecosystems*
+
+
 ### 2026
 
 - **[ForestSAT](https://conference.ifas.ufl.edu/forestsat/index.php)**  
