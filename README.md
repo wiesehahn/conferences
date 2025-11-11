@@ -12,6 +12,10 @@ Warsaw, Poland, 11.-19.09.2027
 
 ### 2026
 
+- **[FORECOMON 2026](https://forecomon2026.thuenen.de/)**  
+  Dubrovnik, Croatia, 04.05.-06.05.2026  
+  *Integrating Ground- and Remote Sensing-based Forest Monitoring for Resilient forests: Opportunities and Challenges*
+
 - **[EGU25](https://www.egu26.eu/)**  
   Vienna, Austria, 03.05.-08.05.2026  
   *a forum where scientists, especially early career researchers, can present their work and discuss their ideas with experts in all fields of geoscience.*
