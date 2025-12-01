@@ -9,6 +9,10 @@ List of selected events (conferences, workshops, etc.) related to forest science
 Warsaw, Poland, 11.-19.09.2027  
 *Conference on the applications of lidar and related technologies for assessing and managing forest ecosystems*
 
+- **[The 60th Photogrammetric Week](https://phowo.ifp.uni-stuttgart.de/)**  
+  Stuttgart, Germany, 06.-09.04.2027  
+  *Advancement in Photogrammetry, Remote Sensing and Geoinformatics.*
+
 
 ### 2026
 
