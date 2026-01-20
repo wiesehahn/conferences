@@ -25,9 +25,13 @@ Warsaw, Poland, 11.-19.09.2027
     - Towards predictive forest models through remotely sensed data
  
 - **[GfÖ annual conference](https://nordicsocietyoikos.glueup.com/event/nordic-oikos-2026-135623/)**  
-    Odense, Denmark, 13.09.-17.09.  
+    Odense, Denmark, 13.-17.09.2026 
     *Integrating the Diversity of Ecology*
-
+ 
+- **[BE20 - Emerging Topics in Long-Term and Large-Scale Biodiversity Research](https://www.biodiversity-exploratories.de/de/be20/)**  
+    Berlin, Germany, 08.-12.06.2026 
+    *celebrating the 20th anniversary of the Biodiversity Exploratories at the first international BE20 Conference*
+  
 - **[FORECOMON 2026](https://forecomon2026.thuenen.de/)**  
   Dubrovnik, Croatia, 04.05.-06.05.2026  
   *Integrating Ground- and Remote Sensing-based Forest Monitoring for Resilient forests: Opportunities and Challenges*
