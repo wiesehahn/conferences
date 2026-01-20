@@ -29,7 +29,7 @@ Warsaw, Poland, 11.-19.09.2027
     *Integrating the Diversity of Ecology*
  
 - **[BE20 - Emerging Topics in Long-Term and Large-Scale Biodiversity Research](https://www.biodiversity-exploratories.de/de/be20/)**  
-    Berlin, Germany, 08.-12.06.2026 
+    Berlin, Germany, 08.-12.06.2026  
     *celebrating the 20th anniversary of the Biodiversity Exploratories at the first international BE20 Conference*
   
 - **[FORECOMON 2026](https://forecomon2026.thuenen.de/)**  
