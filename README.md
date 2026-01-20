@@ -16,6 +16,18 @@ Warsaw, Poland, 11.-19.09.2027
 
 ### 2026
 
+- **[45th EARSeL Symposium](https://athens2026.earsel.org/)**  
+  Athens, Greece, 29.09.-02.10.2026  
+  *Conference of the European Association of Remote Sensing Laboratories*  
+
+  Two special sessions related to forestry remote sensing:
+    - Advancing forest monitoring with remote sensing and machine learning
+    - Towards predictive forest models through remotely sensed data
+ 
+- **[GfÖ annual conference](https://nordicsocietyoikos.glueup.com/event/nordic-oikos-2026-135623/)**  
+    Odense, Denmark, 13.09.-17.09.  
+    *Integrating the Diversity of Ecology*
+
 - **[FORECOMON 2026](https://forecomon2026.thuenen.de/)**  
   Dubrovnik, Croatia, 04.05.-06.05.2026  
   *Integrating Ground- and Remote Sensing-based Forest Monitoring for Resilient forests: Opportunities and Challenges*
