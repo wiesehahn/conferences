@@ -16,6 +16,10 @@ Warsaw, Poland, 11.-19.09.2027
 
 ### 2026
 
+- **[OEMC Global Workshop 2026](https://earthmonitor.org/global-workshop-2026/)**  
+  Barcelona, Spain, 07.-09.10.2026  
+  *Next-Generation EO & GeoAI Built on Openness and Distributed Data*
+  
 - **[45th EARSeL Symposium](https://athens2026.earsel.org/)**  
   Athens, Greece, 29.09.-02.10.2026  
   *Conference of the European Association of Remote Sensing Laboratories*  
